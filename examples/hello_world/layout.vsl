@@ -1,0 +1,4 @@
+Label:
+    id: label_hello_world
+    text: Hello World!
+end
